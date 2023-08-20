@@ -7,9 +7,8 @@ This is the accompanying data for the "One-Hour Beginner's Course on MySQL" from
 
 ## Course Links
 
-* [YouTube]()
-* [B站]()
-
+* [YouTube](https://youtu.be/nZlH5in_660)
+* [bilibili](https://www.bilibili.com/video/BV1AX4y147tA/)
 
 ## How to import the data
 

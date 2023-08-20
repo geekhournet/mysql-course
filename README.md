@@ -7,8 +7,8 @@ _Read this in other languages:_
 
 ## Course Links
 
-* [YouTube]()
-* [B站]()
+* [YouTube](https://youtu.be/nZlH5in_660)
+* [B站](https://www.bilibili.com/video/BV1AX4y147tA/)
 
 
 ## 数据的导入方法：
